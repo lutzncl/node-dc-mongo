@@ -14,7 +14,7 @@ MongoDB<br/>
 
 Steps for successful execution:<br/>
 1. Install MongoDB <br/>
-2.Insert the data into mongoDB as given in the blog<br/>
+2.Insert the data into mongoDB as given in the blog (Use the datasample provided in this fork of the repository, as the original does not exist anymore.)<br/>
 3.Install Nodejs and NPM<br/>
 4. Navigate to the node-dc-mongo directory using command prompt and run npm install, this will install the dependencies<br/>
 5. Navigate to the node-dc-mongo directory using command prompt and run npm start<br/>
